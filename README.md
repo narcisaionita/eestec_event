@@ -1,5 +1,7 @@
 https://semihozden.github.io/eestec_event/website/
 
+Tomi - https://tomislav-ficko.github.io/Personal-website/Personal%20website/index.html
+
 # IEEE EESTEC EVENT
 This repo is created for eestec event. 
   

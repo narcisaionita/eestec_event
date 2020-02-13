@@ -1,6 +1,7 @@
 https://semihozden.github.io/eestec_event/website/
 
 Tomi - https://tomislav-ficko.github.io/Personal-website/Personal%20website/index.html
+Narcisa - https://narcisaionita.github.io/my_blog/web%20page/blog.html
 
 # IEEE EESTEC EVENT
 This repo is created for eestec event. 
